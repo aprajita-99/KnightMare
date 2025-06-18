@@ -3,6 +3,7 @@
 
 Knightmare Chess is a creative twist on the classic game of chess, combining strategic gameplay with fantasy elements.
 https://knightmare.onrender.com/
+https://knight-mare-silk.vercel.app/
 ## 🛠️ Tech Stack
 
 | Layer         | Technology                        |
